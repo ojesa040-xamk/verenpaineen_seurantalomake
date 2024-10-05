@@ -12,7 +12,6 @@ User can add, edit and delete values. Entered blood pressure values can be sent 
 <h2>Languages and Utilities Used</h2>
 
 - <b>React</b> 
-- <b>TypeScript</b>
 
 <h2>Environments Used </h2>
 
