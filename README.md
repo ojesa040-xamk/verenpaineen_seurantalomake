@@ -15,4 +15,4 @@ User can add, edit and delete values. Entered blood pressure values can be sent 
 
 <h2>Environments Used </h2>
 
-- <b>Visual Studio</b>
+- <b>Visual Studio Code</b>
