@@ -16,3 +16,9 @@ User can add, edit and delete values. Entered blood pressure values can be sent 
 <h2>Environments Used </h2>
 
 - <b>Visual Studio Code</b>
+
+<h2>Blood pressure tracking form front page</h2>
+
+<p align="center">
+<img src="https://imgur.com/kloBVXe.png" height="80%" width="80%" alt="BloodPressureform"/>
+</p>
