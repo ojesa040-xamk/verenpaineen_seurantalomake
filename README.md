@@ -3,11 +3,11 @@
  ### [Link to blood pressure tracking form](https://ojesa040-xamk.github.io/verenpaineen_seurantalomake/)
 
 <h2>Description</h2>
-This is my final assignment on my first application programming course. The task was to do an applied exercise. The topic was optional, but it had to apply the techniques and methods of the course. I made an blood pressure tracking form, because in my experience there wasn't any available in Finland. 
-<br />
-On the blood pressure tracking form, the user can insert the measured blood pressure values ​​​​and factors that could affect the result such as coffee.
-User gets the average of the values. The user can choose the desired time from which the average blood pressure is calculated. Options are the average of all entered values, the average for a week and the average for four days. 
-User can add, edit and delete values. Entered blood pressure values can be sent to a healthcare professional. 
+This is my final assignment for my first application programming course. The task was to complete an applied exercise. The topic was optional, but it had to demonstrate the techniques and methods covered in the course. I chose to create a blood pressure tracking form, as, in my experience, no similar application was available in Finland.
+
+On the blood pressure tracking form, users can enter their measured blood pressure values along with factors that may affect the results, such as coffee consumption. The application calculates the average of the entered values. Users can select the time period over which the average is calculated, including all recorded values, the past week, or the past four days.
+
+Users can add, edit, and delete values, and the entered blood pressure data can be sent to a healthcare professional.
 
 <h2>Languages and Utilities Used</h2>
 
