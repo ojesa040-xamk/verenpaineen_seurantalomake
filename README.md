@@ -7,7 +7,7 @@ This is my final assignment for my first application programming course. The tas
 
 On the blood pressure tracking form, users can enter their measured blood pressure values along with factors that may affect the results, such as coffee consumption. The application calculates the average of the entered values. Users can select the time period over which the average is calculated, including all recorded values, the past week, or the past four days.
 
-Users can add, edit, and delete values, and the entered blood pressure data can be sent to a healthcare professional.
+Users can add, edit, and delete values, and the entered blood pressure data can be sent to a healthcare professional. 
 
 <h2>Languages and Utilities Used</h2>
 
